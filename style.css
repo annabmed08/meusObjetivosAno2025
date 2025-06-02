@@ -89,7 +89,7 @@ color: var(--verde);
 text-transform: uppercase;
   }
 
-@media screen and (min-widht:768px)
+@media screen and (min-widht:768px){
 .botao{
     display:flex;
 }
@@ -98,4 +98,5 @@ text-transform: uppercase;
 }
 .botao:last-child{
     border-radius: 0 40px 0 0;
+}
 }
