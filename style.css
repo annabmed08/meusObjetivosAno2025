@@ -89,7 +89,11 @@ color: var(--verde);
 text-transform: uppercase;
   }
 
-@media screen and (min-widht:768px){
+.contador{
+  font-size: 20px;
+  text-align: center;
+}
+@media screen and (min-widht: 768px){
 .botao{
     display:flex;
 }
